@@ -2,7 +2,7 @@
 
 ##### - Desenvolvedor web Fullstack, buscando aperfeiçoamento e padrão de código para meu projetos pessoais e profissionais.
 
-<img src="https://avatars0.githubusercontent.com/u/61812132?s=460&u=c705640c8ecfac9b51d9e4268c404502273b4e0d&v=4">
+<img width="200px" src="https://scontent.fgnm5-1.fna.fbcdn.net/v/t1.0-9/127452617_3643351295778886_7679904133793982814_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHidWEjmuQ4wu5FrXsIZXSH8_wByo7ewofz_AHKjt7Ch3aRJyuZT6_byqHwH8vD7fZzDikvFC_lLu6XZjuRZiY5&_nc_ohc=zC7j7215IvYAX_lCcNr&_nc_ht=scontent.fgnm5-1.fna&oh=4f803b07767fbe7096f3ed9688ec9dff&oe=5FEE4AF5">
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
